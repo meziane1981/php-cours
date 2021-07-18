@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "id": "menu_principal",
+    "a": [
+      {
+        "id": "accueil",
+        "text": "Accueil"
+      },
+      {
+        "id": "contact",
+        "text": "Nous contacter"
+      },
+      {
+        "id": "a-propos",
+        "text": "A propos"
+      }
+    ]
+  }
+}
